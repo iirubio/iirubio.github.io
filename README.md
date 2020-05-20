@@ -1,2 +1,1 @@
-# iirubio.github.io
-Main blog
+# paper-a-day
