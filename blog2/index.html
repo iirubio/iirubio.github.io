@@ -1,0 +1,19 @@
+---
+layout: default
+title: One paper a day
+---
+	<h1>{{ page.title }}</h1>
+
+	<h2>Quick summaries for the papers I read weekly</h2>
+
+	<h3>My current research interests lie in the interaction between episodic memory and sequential decision making. In particular I am 
+		interested in computational models (reinforcement learning) of the interaction between these cognitive systems. My search for 
+		a research topic of my personal interest has had me involved in projects of emotions effects in decision-making, working memory, 
+		visual perception and others.
+	</h3>
+	<ul class="posts">
+
+	  {% for post in site.categories.blog2 %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
