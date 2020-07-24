@@ -1,0 +1,100 @@
+A Neural Substrate of Prediction and Reward
+
+Goal and habits in the brain
+
+THE FORMATION OF LEARNING SETS
+
+Reinforcement Learning Signals Predict Future Decisions
+
+fMRI and EEG Predictors ofDynamic Decision Parameters during Human Reinforcement Learning
+
+Integrating memories to guide decisions
+
+Episodic Memories Predict Adaptive Value-Based Decision-Making
+Vishnu
+
+Reinstated episodic context guides sampling-based decisions for reward
+
+Deep Episodic Value Iteration
+for Model-based Meta-Reinforcement Learning Steven
+
+The Successor Representation: Its Computational Logic and Neural Substrates
+
+NOW I REMEMBER! EPISODIC MEMORY FOR REINFORCEMENT LEARNING
+
+Reinforcement Learning, Fast and Slow
+
+Computational evidence for hierarchically-structured reinforcement learning in humans
+
+Goal-oriented and habitual decisions: Neural signatures of model-based and model- free learning
+
+Learning and exploiting multiple subgoals for fast exploration in hierarchical reinforcement learning. arXiv:190505180
+
+5.
+Momennejad I, Howard MW: Predicting the future with multi-
+??
+scale successor representations
+
+Dyna, an integrated architecture for learning, planning, and reacting. SIGART
+
+Predictive representations can link model-based reinforcement learning to model-free mechanisms. PLoS
+
+A Laplacian
+??
+framework for option discovery in reinforcement learning
+
+This paper reports that purely curiosity-driven learning without any
+?
+Large-scale study of curiosity-driven learning
+
+Eigenoption discovery through the deep successor representation
+
+LISTO Computational psychiatry as a bridge from neuroscience to clinical applications.
+
+What big data can do for treatment in psychiatry.
+
+Charting the landscape of priority problems in psychiatry, part 1: classification and diagnosis
+
+Bonsai trees in your head: how the pavlovian system sculpts goal-directed choices by pruning decision trees.
+
+Representation and timing in theories of the dopamine system
+
+TD Models: Modeling the World at a Mixture of Time Scales
+
+Prediction of immediate and future rewards differentially recruits cortico-basal ganglia loops
+
+Temporal-difference reinforcement learning with distributed representations.
+
+The hippocampus as a spatial map. Preliminary evidence from unit activity in the freely-moving rat
+
+The role of medial prefrontal cortex in memory and decision making
+
+Slow escape decisions are swayed by trait anxiety
+
+Computational Psychiatry: The Brain as a Phantastic Organ
+
+ Reverse Replay of Hippocampal Place Cells Is Uniquely Modulated by Changing Reward 
+
+ Retrospective revaluation in sequential decision making: A tale of two systems.
+
+ TOLMAN 1948
+
+ Post-learning Hippocampal Dynamics Promote Preferential Retention of Rewarding Events.
+
+ Category-specific cortical activity precedes retrieval during memory search
+
+ Doeller et al., 2008 del dia 9
+
+ Dorsal hippocampus plays a causal role in model-based planning. bioRxiv
+
+Combined model-free and model-sensitive reinforcement learning in non-human primates 
+ 
+ Uncertainty-based competition between prefrontal and dorsolat- eral striatal systems for behavioral control
+
+ Motivation and cognitive control: From behavior to neural mechanism.
+
+ Retrospective revaluation in sequential decision making: A tale of two system
+
+ A model of how the basal ganglia generate and use neural signals that predict reinforcement
+
+ Dissociating the role of the orbitofrontal cortex and the striatum in the computation of goal values and prediction errors. J.

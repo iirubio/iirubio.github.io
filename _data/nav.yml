@@ -4,10 +4,12 @@
 - title: About
   href: about.html
 
-- title: Posts
+- title: CV
+  href: cv.html
+
+- title: Research Blog
+  href: list/blogs.html
+
+- title: One paper a day
   href: list/posts.html
-
-- title: Documentation
-  href: list/projects.html
-
 

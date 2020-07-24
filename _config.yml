@@ -7,13 +7,13 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            Friday Theme            # Site title
-name:             Friday Theme            # Your name
+title:            My webpage            # Site title
+name:             Iván Rubio-Venegas            # Your name
 avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
-baseurl: "/friday-theme"
+baseurl: ""
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
 include: ["_pages", "_portfolio"]
@@ -51,6 +51,13 @@ defaults:
     values:
       show_profile: false
       layout: defaults/post
+
+  -
+    scope:
+      path: "_bl0gs"
+    values:
+      show_profile: false
+      layout: defaults/blog
   -
     scope:
       path: "_portfolio"
