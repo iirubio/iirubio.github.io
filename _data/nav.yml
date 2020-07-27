@@ -4,11 +4,11 @@
 - title: About
   href: about.html
 
-- title: CV
-  href: cv.html
+#- title: CV
+#  href: cv.html
 
-- title: Research Blog
-  href: list/blogs.html
+#- title: Research Blog
+#  href: list/blogs.html
 
 - title: One paper a day
   href: list/posts.html
