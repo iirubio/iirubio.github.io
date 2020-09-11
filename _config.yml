@@ -54,7 +54,7 @@ defaults:
 
   -
     scope:
-      path: "_bl0gs"
+      path: "_blogs"
     values:
       show_profile: false
       layout: defaults/blog

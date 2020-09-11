@@ -7,9 +7,9 @@
 #- title: CV
 #  href: cv.html
 
-#- title: Research Blog
-#  href: list/blogs.html
+- title: Research Blog
+  href: list/research_posts.html
 
 - title: One paper a day
-  href: list/posts.html
+  href: list/paper_posts.html
 

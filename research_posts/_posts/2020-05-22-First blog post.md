@@ -1,8 +1,7 @@
 ---
 title: "My first blog post"
-category: paper_posts
 tags:
-    - wutd
+    - communication
 ---
 
 In my main research blog I will post about research I have done (once the given pre-prints or peer reviewed papers are published) and
