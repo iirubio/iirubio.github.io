@@ -20,7 +20,10 @@
     {% include components/project-meta.html %}
 {% endif %}
 
-{% if page.path contains '_posts' %}
-    {% include components/post-meta.html %}
+{% if page.path contains 'paper_posts' %}
+    {% include components/paper_post-meta.html %}
 {% endif %}
 
+{% if page.path contains 'research_posts' %}
+    {% include components/research_post-meta.html %}
+{% endif %}

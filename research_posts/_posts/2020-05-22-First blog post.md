@@ -1,5 +1,6 @@
 ---
 title: "My first blog post"
+layout: defaults/research_post
 tags:
     - communication
 ---

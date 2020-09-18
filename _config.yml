@@ -45,9 +45,24 @@ defaults:
       path: ""
     values:
       show_profile: true
+  #-
+  #  scope:
+  #    path: "_posts"
+ #   values:
+ #     show_profile: false
+ #     layout: defaults/post
+
+
+  #-
+  #  scope:
+  #    path: "paper_posts"
+  #  values:
+  #    show_profile: false
+  #    layout: defaults/post
+
   -
     scope:
-      path: "_posts"
+      path: "research_posts/_posts/"
     values:
       show_profile: false
       layout: defaults/post
