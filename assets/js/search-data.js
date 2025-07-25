@@ -439,7 +439,7 @@ ninja.data = [{
           title: 'The man in the high castle',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/the_man_in_the_high_castle/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
