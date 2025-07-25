@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info:
     <p>iirubio@uc.cl</p>
     <a href="https://github.com/iirubio">Github</a>
     <p>Santiago, Chile</p>
