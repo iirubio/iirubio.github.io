@@ -23,8 +23,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Born in Chile, as a child I studied in Argentina, Venezuela, and Chile where I ended my highschool studies. There I also went to Pontificia Universidad Católica de Chile for my undergrad in Computer Engineering. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My formal studies involved math and science courses, followed by a specialization in Computer Engineering, involving courses in computer science and architecture, data science, algorithms and artificial intelligence. During my last years in college, I worked in neuroscience research labs, which I continued to do the following years. Experiment design, programming, and statistical analysis were my main duties.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Since 2021 I had a condition with no clear diagnosis by experts, which led to me having inhabilitating chronic pain for 4 years. By the end of 2024 I finally got a diagnosis and been treating my condition since. Then name of my condition is Arnold neuralgia. It has no cure, you can only try to reduce the pain directly. In spite of that, I am finally at a point in time in which I can do regular day activities by myself, including working.
+
